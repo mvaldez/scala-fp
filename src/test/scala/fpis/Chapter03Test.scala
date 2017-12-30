@@ -205,7 +205,6 @@ class Chapter03Test extends FunSuite {
   }
   
   test("examples") {
-    println("examples")
     val ar = Array[Int](1, 2, 3, 4, 5)
 
     println(ar.mkString(","))
